@@ -1,0 +1,19 @@
+{
+  "name": "feng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joneswc/provafeng.git"
+  },
+  "author": "jones.chagas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joneswc/provafeng/issues"
+  },
+  "homepage": "https://github.com/Joneswc/provafeng#readme"
+}
